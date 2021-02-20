@@ -1,4 +1,4 @@
-# B2S-Backglass designer directb2s backglass scrapper based on nailbuster
+# B2S-Backglass designer directb2s backglass scrapper based on nailbuster's fork
 # (not official version)
 B2S Backglass Server and Designer for use with Visual Pinball
 
